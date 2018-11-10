@@ -1,0 +1,14 @@
+E:\PC\MovieInfo\MovieInfo.Web.Client\bin\Debug\netcoreapp2.1\MovieInfo.Web.Client.deps.json
+E:\PC\MovieInfo\MovieInfo.Web.Client\bin\Debug\netcoreapp2.1\MovieInfo.Web.Client.runtimeconfig.json
+E:\PC\MovieInfo\MovieInfo.Web.Client\bin\Debug\netcoreapp2.1\MovieInfo.Web.Client.runtimeconfig.dev.json
+E:\PC\MovieInfo\MovieInfo.Web.Client\bin\Debug\netcoreapp2.1\MovieInfo.Web.Client.dll
+E:\PC\MovieInfo\MovieInfo.Web.Client\bin\Debug\netcoreapp2.1\MovieInfo.Web.Client.pdb
+E:\PC\MovieInfo\MovieInfo.Web.Client\obj\Debug\netcoreapp2.1\MovieInfo.Web.Client.csprojAssemblyReference.cache
+E:\PC\MovieInfo\MovieInfo.Web.Client\obj\Debug\netcoreapp2.1\MovieInfo.Web.Client.csproj.CoreCompileInputs.cache
+E:\PC\MovieInfo\MovieInfo.Web.Client\obj\Debug\netcoreapp2.1\MovieInfo.Web.Client.RazorAssemblyInfo.cache
+E:\PC\MovieInfo\MovieInfo.Web.Client\obj\Debug\netcoreapp2.1\MovieInfo.Web.Client.RazorAssemblyInfo.cs
+E:\PC\MovieInfo\MovieInfo.Web.Client\obj\Debug\netcoreapp2.1\MovieInfo.Web.Client.AssemblyInfoInputs.cache
+E:\PC\MovieInfo\MovieInfo.Web.Client\obj\Debug\netcoreapp2.1\MovieInfo.Web.Client.AssemblyInfo.cs
+E:\PC\MovieInfo\MovieInfo.Web.Client\obj\Debug\netcoreapp2.1\MovieInfo.Web.Client.RazorTargetAssemblyInfo.cache
+E:\PC\MovieInfo\MovieInfo.Web.Client\obj\Debug\netcoreapp2.1\MovieInfo.Web.Client.dll
+E:\PC\MovieInfo\MovieInfo.Web.Client\obj\Debug\netcoreapp2.1\MovieInfo.Web.Client.pdb
